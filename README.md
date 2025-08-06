@@ -9,7 +9,7 @@
 ### ✨ Sobre mí
 
 - 🎓 Actualmente estudio la Tecnicatura en Desarrollo de Software en el IES Manuel Belgrano.
-- 👩‍💻 Trabajo como **Trainee Developer en Angular**.
+- 👩‍💻 Trabajo como **Frontend Developer**.
 - 🌍 Soy de **Mendoza, Argentina** 🇦🇷.
 - 💡 Tengo conocimientos tanto en **front-end** como en **back-end**, lo que me permite abordar soluciones completas.
 - 🧠 Siempre estoy aprendiendo algo nuevo y me encanta trabajar en equipo y compartir conocimientos.
@@ -56,17 +56,7 @@
 
 ### 📂 Proyectos destacados
 
-
-
 > Podés ver mis proyectos en [repositorios públicos](https://github.com/JenniArabel?tab=repositories) 🚀 
-
----
-
-### 🎯 En este momento...
-
-- 🚀 Profundizando mis habilidades con Angular + TypeScript
-- 🛠️ Consolidando conocimientos en Java + Spring Boot
-- 💡 Aprendiendo buenas prácticas con Git y testing de APIs
 
 ---
 
