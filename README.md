@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Jennifer Arabel</h1>
 
 <p align="center">
-💻 <b>Full Stack Developer</b> | 🎓 Tecnicatura en Desarrollo de Software | 📍 Curicó, Chile 🇨🇱
+💻 <b>Frontend Developer</b> · React · TypeScript · Angular | 🎓 Tecnicatura en Desarrollo de Software | 📍 Curicó, Chile 🇨🇱
 </p>
 
 <p align="center">
@@ -17,10 +17,13 @@
 
 ### ✨ Sobre mí
 
-- 👩‍💻 **Frontend Developer** en **Moby Digital**, enfocada en la creación de interfaces escalables y arquitectura de **microfrontends**.
-- 🎓 Graduada de la **Tecnicatura Superior en Desarrollo de Software** (IES Manuel Belgrano).
-- 🤖 Apasionada por el **desarrollo asistido por IA** (*Spec-Driven Development / Vibe Coding*) para optimizar flujos de trabajo, automatización y depuración de código.
-- 💡 Experiencia integrando APIs REST, aplicando **Clean Code**, principios **SOLID** y metodologías ágiles (**Scrum**).
+- 👩‍💻 **Full Stack Developer** en **PM7 Group** (desde agosto 2026), con foco en **React 19, TypeScript y Tailwind CSS v4**: interfaces responsivas, HTML semántico y accesibles (ARIA, WCAG 2 A/AA).
+- 🧩 Antes, **Frontend Developer** en **Moby Digital**: arquitectura de **microfrontends** (Single-SPA, Module Federation) con React y Angular.
+- ✅ Calidad con **Vitest + React Testing Library**, pruebas E2E con **Playwright** y verificación de accesibilidad con **axe-core**.
+- 📈 **Analítica y SEO técnico**: Google Tag Manager (dataLayer), GA4, Search Console, Microsoft Clarity y datos estructurados JSON-LD.
+- 🎓 Graduada de la **Tecnicatura Superior en Desarrollo de Software** (IES Manuel Belgrano). Inglés B2.
+- 🤖 Apasionada por el **desarrollo asistido por IA** (*Spec-Driven Development*) para optimizar flujos de trabajo y depuración de código.
+- 💡 Integración de APIs REST, **Clean Code**, principios **SOLID** y metodologías ágiles (**Scrum** y **Kanban**).
 - 🧠 Siempre aprendiendo y experimentando con nuevas herramientas y arquitecturas web.
 
 ---
@@ -28,12 +31,14 @@
 ### 🧠 Stack Técnico
 
 #### 🔸 Front-End & Arquitectura
-- **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS
+- **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5 semántico, CSS3/SCSS
 - **Frameworks & Librerías:** React, Angular, Single-SPA (Microfrontends)
-- **Estilos & UI:** Tailwind CSS, Bootstrap, Angular Material, PrimeNG, DaisyUI
+- **Estilos & UI:** Tailwind CSS, Bootstrap, Angular Material, PrimeNG, Flexbox, CSS Grid
+- **Testing & Accesibilidad:** Vitest, React Testing Library, Playwright, axe-core, Karma, Jasmine
+- **Analítica & SEO:** Google Tag Manager, GA4, Search Console, Microsoft Clarity, JSON-LD
 
 #### 🔸 Back-End & Bases de Datos
-- **Backend:** Node.js, Java, Spring Boot
+- **Backend:** Laravel (API REST), Node.js, Java, Spring Boot
 - **Bases de Datos:** MySQL, JPA, Hibernate
 
 #### 🔸 IA & Automatización
@@ -43,7 +48,7 @@
 #### 🔸 Herramientas & Entornos
 - **Control de Versiones:** Git, GitFlow, Bitbucket, GitHub
 - **API & DB Tools:** Postman, DBeaver
-- **Gestión:** Trello, Scrum, Kanban
+- **Gestión:** Jira, Notion, Trello, Scrum, Kanban
 
 ---
 
@@ -60,6 +65,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 
 ---
@@ -68,6 +76,7 @@
 
 - 🤖 **Vibe Coding desde Cero: Aprende a "Programar" Usando IA** *(Udemy)*
 - 🅰️ **Angular: De Cero a Experto** *(Udemy)*
+- 🔷 **TypeScript: Tipos avanzados y funciones** *(Platzi)*
 - 🧹 **Principios SOLID y Clean Code** *(Udemy)*
 - 🌿 **Git + GitHub: Sistema de control de versiones de cero** *(Udemy)*
 - 💧 **Drupal For Absolute Beginner** *(Udemy)*
